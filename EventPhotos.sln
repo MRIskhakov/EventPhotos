@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPhotos", "EventPhotos\EventPhotos.csproj", "{A30BCC9F-39FA-4DA2-B384-2D365915149B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPhotos.Tests", "EventPhotos.Tests\EventPhotos.Tests.csproj", "{927ADBEC-70BF-43C2-A083-0AA3CBDAAA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30BCC9F-39FA-4DA2-B384-2D365915149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30BCC9F-39FA-4DA2-B384-2D365915149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30BCC9F-39FA-4DA2-B384-2D365915149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30BCC9F-39FA-4DA2-B384-2D365915149B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927ADBEC-70BF-43C2-A083-0AA3CBDAAA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927ADBEC-70BF-43C2-A083-0AA3CBDAAA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927ADBEC-70BF-43C2-A083-0AA3CBDAAA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927ADBEC-70BF-43C2-A083-0AA3CBDAAA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
